@@ -1,2 +1,0 @@
-# StreamFusionsale
-StreamFusion APP Venta
